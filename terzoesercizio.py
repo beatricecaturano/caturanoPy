@@ -1,0 +1,5 @@
+nome = input('inserisci il tuo nome: ')
+cognome = input('inserisci il tuo cognome: ')
+len(nome)
+len(cognome)
+print(len(nome), len(cognome))
